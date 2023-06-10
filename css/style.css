@@ -5,6 +5,8 @@
     --dark: #1B2C51;
 }
 
+.bg-logo{background-color:#00addb !important}
+
 .fw-medium {
     font-weight: 500 !important;
 }
